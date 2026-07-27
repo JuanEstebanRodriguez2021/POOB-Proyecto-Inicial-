@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SilkRoadContest
+comment0.text=\r\n\ Clase\ para\ resolver\ el\ problema\ de\ la\ marat\u00F3n.\r\n\ NO\ usa\ SilkRoad\ para\ resolver,\ solo\ para\ simular.\r\n\ Ciclo\ 3\ -\ Requisitos\ 14\ y\ 15\r\n
+comment1.params=entries
+comment1.target=SilkRoadContest(int[][])
+comment1.text=\r\n\ Constructor\r\n\ @param\ entries\ Matriz\ de\ entrada\ del\ problema\ [tipo,\ ubicaci\u00F3n,\ (valor)]\r\n
+comment2.params=
+comment2.target=int[]\ solve()
+comment2.text=\r\n\ REQUISITO\ 14\:\ Resuelve\ el\ problema\ de\ la\ marat\u00F3n\r\n\ Calcula\ la\ m\u00E1xima\ utilidad\ diaria\ sin\ usar\ SilkRoad\r\n\ @return\ Array\ con\ las\ ganancias\ m\u00E1ximas\ de\ cada\ d\u00EDa\r\n
+comment3.params=
+comment3.target=int\ calculateMaxProfit()
+comment3.text=\r\n\ Calcula\ la\ m\u00E1xima\ ganancia\ posible\ para\ el\ estado\ actual\r\n\ usando\ un\ enfoque\ greedy\ simple\r\n
+comment4.params=
+comment4.target=SilkRoad\ simulate()
+comment4.text=\r\n\ REQUISITO\ 15\:\ Simula\ la\ soluci\u00F3n\ usando\ SilkRoad\r\n\ Ejecuta\ los\ movimientos\ \u00F3ptimos\ en\ el\ simulador\ visual\r\n\ @return\ El\ simulador\ SilkRoad\ con\ la\ simulaci\u00F3n\ ejecutada\r\n
+comment5.params=
+comment5.target=int[]\ getProfits()
+comment5.text=\r\n\ Obtiene\ las\ ganancias\ calculadas\r\n\ @return\ Array\ con\ las\ ganancias\ de\ cada\ d\u00EDa\r\n
+comment6.params=
+comment6.target=java.lang.String\ getResultsString()
+comment6.text=\r\n\ M\u00E9todo\ auxiliar\ para\ imprimir\ resultados\r\n\ @return\ String\ con\ los\ resultados\ formateados\r\n
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NeverBackRobot
+comment0.text=\r\n\ Robot\ que\ nunca\ retrocede\:\ solo\ puede\ avanzar\ hacia\ adelante.\r\n\ No\ puede\ moverse\ a\ posiciones\ menores\ a\ su\ posici\u00F3n\ actual.\r\n
+comment1.params=pathIndex
+comment1.target=NeverBackRobot(int)
+comment1.text=\r\n\ Constructor\ de\ robot\ que\ nunca\ retrocede.\r\n\ @param\ pathIndex\ Posici\u00F3n\ inicial.\r\n
+comment2.params=newIndex
+comment2.target=boolean\ canMoveTo(int)
+comment2.text=\r\n\ Solo\ puede\ moverse\ hacia\ adelante\ (\u00EDndices\ mayores).\r\n\ @param\ newIndex\ Nueva\ posici\u00F3n\ propuesta.\r\n\ @return\ true\ si\ newIndex\ >\=\ posici\u00F3n\ actual.\r\n
+comment3.params=store
+comment3.target=int\ collectFromStore(Store)
+comment3.text=\r\n\ Recolecta\ normalmente\ de\ la\ tienda.\r\n\ @param\ store\ Tienda\ a\ visitar.\r\n\ @return\ Cantidad\ recolectada.\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NormalRobot
+comment0.text=\r\n\ Robot\ normal\:\ puede\ moverse\ en\ cualquier\ direcci\u00F3n\ y\ toma\ todo\ el\ dinero.\r\n\ Comportamiento\ est\u00E1ndar\ de\ los\ robots.\r\n
+comment1.params=pathIndex
+comment1.target=NormalRobot(int)
+comment1.text=\r\n\ Constructor\ de\ robot\ normal.\r\n\ @param\ pathIndex\ Posici\u00F3n\ inicial.\r\n
+comment2.params=newIndex
+comment2.target=boolean\ canMoveTo(int)
+comment2.text=\r\n\ Puede\ moverse\ a\ cualquier\ posici\u00F3n.\r\n\ @param\ newIndex\ Nueva\ posici\u00F3n.\r\n\ @return\ Siempre\ true.\r\n
+comment3.params=store
+comment3.target=int\ collectFromStore(Store)
+comment3.text=\r\n\ Recolecta\ todo\ lo\ que\ la\ tienda\ le\ permita.\r\n\ @param\ store\ Tienda\ a\ visitar.\r\n\ @return\ Cantidad\ recolectada.\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Un\ tri\u00E1ngulo\ que\ puede\ ser\ manipulado\ y\ dibujarse\ en\ un\ canvas.\r\n\ Refactorizado\ para\ usar\ herencia\ de\ Shape.\r\n
+comment1.params=
+comment1.target=Triangle()
+comment1.text=\r\n\ Constructor\ por\ defecto.\r\n
+comment2.params=newHeight\ newWidth
+comment2.target=void\ changeSize(int,\ int)
+comment2.text=\r\n\ Cambia\ el\ tama\u00F1o\ del\ tri\u00E1ngulo.\r\n\ @param\ newHeight\ Nueva\ altura\ (debe\ ser\ >\=\ 0).\r\n\ @param\ newWidth\ Nuevo\ ancho\ (debe\ ser\ >\=\ 0).\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Dibuja\ el\ tri\u00E1ngulo.\r\n
+comment4.params=
+comment4.target=void\ erase()
+comment4.text=\r\n\ Borra\ el\ tri\u00E1ngulo.\r\n
+numComments=5

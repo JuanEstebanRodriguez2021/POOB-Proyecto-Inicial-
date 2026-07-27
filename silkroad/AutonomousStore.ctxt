@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AutonomousStore
+comment0.text=\r\n\ Tienda\ aut\u00F3noma\:\ escoge\ su\ propia\ posici\u00F3n\ en\ lugar\ de\ la\ indicada.\r\n\ Busca\ posicionarse\ cerca\ de\ donde\ hay\ robots.\r\n
+comment1.params=suggestedLocation\ initialValue
+comment1.target=AutonomousStore(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ tienda\ aut\u00F3noma.\r\n\ @param\ suggestedLocation\ Ubicaci\u00F3n\ sugerida\ (puede\ cambiarla).\r\n\ @param\ initialValue\ Valor\ inicial\ en\ tenges.\r\n
+comment2.params=robotPositions\ pathSize
+comment2.target=void\ chooseLocation(int[],\ int)
+comment2.text=\r\n\ Determina\ su\ ubicaci\u00F3n\ \u00F3ptima\ basada\ en\ posiciones\ de\ robots.\r\n\ @param\ robotPositions\ Array\ con\ posiciones\ de\ robots\ existentes.\r\n\ @param\ pathSize\ Tama\u00F1o\ total\ de\ la\ ruta.\r\n
+comment3.params=robot
+comment3.target=int\ collectTenges(RobotEntity)
+comment3.text=\r\n\ Recolecci\u00F3n\ normal\ de\ tenges.\r\n\ @param\ robot\ El\ robot\ que\ recolecta.\r\n\ @return\ Cantidad\ recolectada.\r\n
+numComments=4

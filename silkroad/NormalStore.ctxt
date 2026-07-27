@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NormalStore
+comment0.text=\r\n\ Tienda\ normal\:\ cualquier\ robot\ puede\ tomar\ todo\ su\ dinero.\r\n\ Comportamiento\ est\u00E1ndar\ de\ las\ tiendas.\r\n
+comment1.params=location\ initialValue
+comment1.target=NormalStore(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ tienda\ normal.\r\n\ @param\ location\ Ubicaci\u00F3n\ en\ la\ ruta.\r\n\ @param\ initialValue\ Valor\ inicial\ en\ tenges.\r\n
+comment2.params=robot
+comment2.target=int\ collectTenges(RobotEntity)
+comment2.text=\r\n\ Permite\ recolectar\ todo\ el\ dinero\ disponible.\r\n\ @param\ robot\ El\ robot\ que\ recolecta\ (no\ importa\ el\ tipo).\r\n\ @return\ La\ cantidad\ total\ recolectada.\r\n
+numComments=3

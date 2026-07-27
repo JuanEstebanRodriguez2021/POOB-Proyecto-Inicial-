@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Un\ rect\u00E1ngulo\ que\ puede\ ser\ manipulado\ y\ dibujarse\ en\ un\ canvas.\r\n\ Refactorizado\ para\ usar\ herencia\ de\ Shape.\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Constructor\ por\ defecto.\r\n
+comment2.params=color\ h\ w\ x\ y
+comment2.target=Rectangle(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Constructor\ con\ par\u00E1metros.\r\n\ @param\ color\ Color\ del\ rect\u00E1ngulo.\r\n\ @param\ h\ Altura.\r\n\ @param\ w\ Ancho.\r\n\ @param\ x\ Posici\u00F3n\ X.\r\n\ @param\ y\ Posici\u00F3n\ Y.\r\n
+comment3.params=newHeight\ newWidth
+comment3.target=void\ changeSize(int,\ int)
+comment3.text=\r\n\ Cambia\ el\ tama\u00F1o\ del\ rect\u00E1ngulo.\r\n\ @param\ newHeight\ Nueva\ altura\ (debe\ ser\ >\=\ 0).\r\n\ @param\ newWidth\ Nuevo\ ancho\ (debe\ ser\ >\=\ 0).\r\n
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Dibuja\ el\ rect\u00E1ngulo.\r\n
+comment5.params=
+comment5.target=void\ erase()
+comment5.text=\r\n\ Borra\ el\ rect\u00E1ngulo.\r\n
+numComments=6

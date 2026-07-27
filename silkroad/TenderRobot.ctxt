@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TenderRobot
+comment0.text=\r\n\ Robot\ tierno\:\ solo\ toma\ la\ mitad\ del\ dinero\ de\ las\ tiendas.\r\n\ Deja\ algo\ para\ otros\ robots.\r\n
+comment1.params=pathIndex
+comment1.target=TenderRobot(int)
+comment1.text=\r\n\ Constructor\ de\ robot\ tierno.\r\n\ @param\ pathIndex\ Posici\u00F3n\ inicial.\r\n
+comment2.params=newIndex
+comment2.target=boolean\ canMoveTo(int)
+comment2.text=\r\n\ Puede\ moverse\ a\ cualquier\ posici\u00F3n.\r\n\ @param\ newIndex\ Nueva\ posici\u00F3n.\r\n\ @return\ Siempre\ true.\r\n
+comment3.params=store
+comment3.target=int\ collectFromStore(Store)
+comment3.text=\r\n\ Toma\ solo\ la\ mitad\ del\ dinero\ disponible.\r\n\ @param\ store\ Tienda\ a\ visitar.\r\n\ @return\ La\ mitad\ de\ lo\ que\ la\ tienda\ ofrezca.\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FighterStore
+comment0.text=\r\n\ Tienda\ luchadora\:\ solo\ robots\ con\ m\u00E1s\ dinero\ que\ ella\ pueden\ tomarla.\r\n\ Representa\ una\ tienda\ protegida\ que\ requiere\ "poder\ econ\u00F3mico".\r\n
+comment1.params=location\ initialValue
+comment1.target=FighterStore(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ tienda\ luchadora.\r\n\ @param\ location\ Ubicaci\u00F3n\ en\ la\ ruta.\r\n\ @param\ initialValue\ Valor\ inicial\ en\ tenges.\r\n
+comment2.params=robot
+comment2.target=int\ collectTenges(RobotEntity)
+comment2.text=\r\n\ Solo\ permite\ recolecci\u00F3n\ si\ el\ robot\ tiene\ m\u00E1s\ dinero\ que\ la\ tienda.\r\n\ @param\ robot\ El\ robot\ que\ intenta\ recolectar.\r\n\ @return\ Cantidad\ recolectada\ (0\ si\ el\ robot\ no\ califica).\r\n
+numComments=3

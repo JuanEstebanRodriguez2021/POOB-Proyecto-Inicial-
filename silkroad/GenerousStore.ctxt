@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GenerousStore
+comment0.text=\r\n\ TIPO\ PROPUESTO\:\ Tienda\ generosa.\r\n\ Da\ el\ doble\ de\ dinero\ al\ primer\ robot\ que\ la\ visita,\ pero\ luego\ queda\ vac\u00EDa.\r\n\ Incentiva\ a\ los\ robots\ a\ competir\ por\ llegar\ primero.\r\n
+comment1.params=location\ initialValue
+comment1.target=GenerousStore(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ tienda\ generosa.\r\n\ @param\ location\ Ubicaci\u00F3n\ en\ la\ ruta.\r\n\ @param\ initialValue\ Valor\ inicial\ en\ tenges.\r\n
+comment2.params=robot
+comment2.target=int\ collectTenges(RobotEntity)
+comment2.text=\r\n\ Da\ el\ doble\ al\ primer\ visitante,\ nada\ a\ los\ siguientes.\r\n\ @param\ robot\ El\ robot\ que\ recolecta.\r\n\ @return\ El\ doble\ del\ valor\ si\ es\ primera\ visita,\ 0\ en\ caso\ contrario.\r\n
+comment3.params=
+comment3.target=void\ resupply()
+comment3.text=\r\n\ Reabastece\ y\ resetea\ la\ bandera\ de\ primera\ visita.\r\n
+numComments=4

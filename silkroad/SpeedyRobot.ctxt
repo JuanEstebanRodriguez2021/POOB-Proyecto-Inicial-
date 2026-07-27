@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SpeedyRobot
+comment0.text=\r\n\ TIPO\ PROPUESTO\:\ Robot\ veloz.\r\n\ Se\ mueve\ al\ doble\ de\ velocidad\ (costo\ de\ movimiento\ es\ la\ mitad).\r\n\ Representa\ un\ robot\ m\u00E1s\ eficiente\ en\ sus\ desplazamientos.\r\n
+comment1.params=pathIndex
+comment1.target=SpeedyRobot(int)
+comment1.text=\r\n\ Constructor\ de\ robot\ veloz.\r\n\ @param\ pathIndex\ Posici\u00F3n\ inicial.\r\n
+comment2.params=newIndex
+comment2.target=boolean\ canMoveTo(int)
+comment2.text=\r\n\ Puede\ moverse\ a\ cualquier\ posici\u00F3n.\r\n\ @param\ newIndex\ Nueva\ posici\u00F3n.\r\n\ @return\ Siempre\ true.\r\n
+comment3.params=store
+comment3.target=int\ collectFromStore(Store)
+comment3.text=\r\n\ Recolecta\ normalmente\ de\ la\ tienda.\r\n\ La\ ventaja\ del\ SpeedyRobot\ est\u00E1\ en\ el\ costo\ reducido\ de\ movimiento,\r\n\ que\ se\ maneja\ en\ SilkRoad\ al\ calcular\ la\ ganancia.\r\n\ @param\ store\ Tienda\ a\ visitar.\r\n\ @return\ Cantidad\ recolectada.\r\n
+comment4.params=distance
+comment4.target=int\ getMovementCost(int)
+comment4.text=\r\n\ Calcula\ el\ costo\ de\ movimiento\ para\ este\ robot.\r\n\ @param\ distance\ Distancia\ a\ recorrer.\r\n\ @return\ La\ mitad\ del\ costo\ normal.\r\n
+numComments=5
